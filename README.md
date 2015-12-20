@@ -1,5 +1,6 @@
 # AlphaOS
-*This page is still under construction. Please come back later.*
+*This page and Alpha OS are still under construction. Please come back later.*
+
 ### Progress
     0% ##########---------------------------------------- 100%
                20%
